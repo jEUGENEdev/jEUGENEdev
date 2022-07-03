@@ -1,1 +1,1 @@
-<div align="center" style="display: flex; align-items: center;"><h1>Hello, my name is Zhenya<img src="i.webp" height="50" width="50"></h1></div>
+<div align="center"><h1>Hello, my name is Zhenya<img src="i.webp" height="35" width="35"></h1></div>
