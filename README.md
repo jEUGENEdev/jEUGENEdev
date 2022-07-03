@@ -10,5 +10,8 @@
     <div align="center">
         <img src="java.jpg" height="200" width="300" alt>
         <p>Java is my first programming language that I started learning, as well as the main language that I use now. "Why did you choose this language first?" - perhaps you have such a question. Like all beginners in programming, I acted on one principle - it's to learn the coolest and most popular language, but now I can't imagine myself without my beautiful, beloved language - Java. Its syntax seems to me so correct that, sometimes, some other languages seem intimidating to me. In the future I plan to stay with Java, but also to learn all new programming languages and their technologies.</p>
+        <br>
+        <img src="front.jpg" height="200" width="300" alt>
+        <p>After a relatively long study of the Java language, I had a need to try myself in Frontend. After all, this is even cooler than Backend, since you immediately observe the result of your work. It's like writing musical notes on a special piece of paper and playing a musical instrument while enjoying beautiful music. Nevertheless, I still plan to do more Backend, because there is nothing cooler than creating the logic of the application and its behavior in general. <i>And who knows, maybe FullStack will work :)</i></p>
     </div>
 </div>
