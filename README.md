@@ -19,8 +19,6 @@
         <img src="python.webp" height="200" width="200" alt>
         <p>And sometimes I had to write in the Python programming language. These were mainly integrations with popular APIs of messengers and social networks, such as VKontakte, Telegram, Discord. And also <s>this is the language</s> <b>in fact, I wrote in Python and Java</b>, in which I wrote the computer science exam (EGE) this year.</p>
     </div>
-</div>
-<div>
     <h2>What am I planning next?</h2>
     <p>Firstly, it is to get acquainted with the Kotlin programming language, since, unfortunately, Java has faded into the background in Android development, and Kotlin is becoming more and more popular.</p>
     <img src="kotlin.png" height="150" width="360" alt>
@@ -31,4 +29,9 @@
         <li><b>Once upon a time I planned to master artificial intelligence and machine learning, but I never got to that. I hope I will be able to defeat neural networks soon!</b></li>
         <li><b>And I also want to study Computer Science!</b></li>
     </ul>
+    <hr>
+    <h4>That's all, we have come to a logical conclusion. The information above will be updated as needed, well, at least I hope so))</h4>
+</div>
+<div align="center">
+    <p><b>Don't forget to <a href="https://jeugenedev.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></p>
 </div>
