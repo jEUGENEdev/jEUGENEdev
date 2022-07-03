@@ -25,4 +25,8 @@
     <p>Firstly, it is to get acquainted with the Kotlin programming language, since, unfortunately, Java has faded into the background in Android development, and Kotlin is becoming more and more popular.</p>
     <img src="kotlin.png" height="150" width="360" alt>
     <hr>
+    <p>The second thing I would like to pay attention to is the study of special tools for developers, such as: Kubernetes, Docker, Message Brokers, learn more about Linux.</p>
+    <p>I am also fascinated by what is related to computer security, data protection, finding weaknesses in the code, etc. - to create products with minimal vulnerability.</p>
+    <p>Once upon a time I planned to master artificial intelligence and machine learning, but I never got to that. I hope I will be able to defeat neural networks soon!</p>
+    <p>And I also want to study Computer Science!</p>
 </div>
