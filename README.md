@@ -1,5 +1,4 @@
 <div align="center"><h1>Hello, my name is Zhenya<img src="i.webp" height="35" width="35" alt></h1></div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <div>
     <h3>About Me:</h3>
     <p><img src="cake.jpg" height="20" width="20" alt>: And so, I am already 17 years old, and soon I will be 18 at all!</p>
