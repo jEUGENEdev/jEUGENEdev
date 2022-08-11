@@ -33,7 +33,7 @@
     <h4>That's all, we have come to a logical conclusion. The information above will be updated as needed, well, at least I hope so))</h4>
 </div>
 <div align="center">
-    <p><b>Don't forget to <a href="https://jeugenedev.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></p>
+    <p><b>Don't forget to <a href="https://zhenya00000.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></p>
     <br>
     <p>github.com: <a href="https://github.com/jEUGENEdev">jEUGENEdev</a></p>
     <p>javarush.ru: <a href="https://javarush.ru/users/2533188">(:ArbyziK:)</a></p>
