@@ -2,28 +2,28 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jEUGENEdev&theme=radical&hide_border=true&border_radius=15&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeugenedev&theme=radical&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Что здесь вобще творится то?</h3>
 <ul>
     <li>Частенько встречается Java</li>
     <li>Иногда можно увидеть JAVA</li>
-    <li>Чуть менее, чем частенько и иногда, можно увидеть ещё HTML (собственно, этот текст, который сверху, и который снизу, на нём вот и написан <b>ну да</b>)</li>
+    <li>Чуть менее, чем частенько и иногда, можно увидеть HTML (собственно, этот текст, который сверху, и который снизу, на нём вот и написан <b>ну да</b>)</li>
     <ul>
         <li>А потом CSS</li>
         <ul>
             <li>А еще и JS!!!</li>
         </ul>
     </ul>
-    <li>Случайно ещё можно будет увидеть и Python</li>
-    <li>С каких-то пор здесь ещё появился какой-то C и Bash</li>
+    <li>Случайно можно будет увидеть и Python</li>
+    <li>С каких-то пор здесь появился какой-то C и Bash</li>
     <ul>
         <li>Теперь и их тоже можно увидеть</li>
     </ul>
-    <li>Возможно, можно и ещё что-то увидеть, нужно будет посмотреть... потом допишу</li>
+    <li>Возможно, можно ещё что-то увидеть, нужно будет посмотреть...</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeugenedev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeugenedev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeugenedev&theme=radical&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
