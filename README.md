@@ -1,40 +1,39 @@
-<div align="center"><h1>Hello, my name is Zhenya<img src="i.webp" height="35" width="35" alt></h1></div>
-<div>
-    <h3>About Me:</h3>
-    <p><img src="cake.jpg" height="20" width="20" alt>: And so, I am already 17 years old, and soon I will be 18 at all!</p>
-    <p><img src="android.png" height="20" width="20" alt>: <b>Android and WEB developer</b></p>
-    <p><img src="pk.jpg" height="20" width="20" alt>: Oddly enough, but I have been interested in programming since I was 16 years old!</p>
-    <p><img src="music.jpg" height="20" width="20" alt>: I also know how to play musical instruments</p>
-    <p><img src="smile.png" height="20" width="20" alt>: I could still write a lot of cool facts, but, damn it, it will be a long time(</p>
-</div>
-<div>
-    <h2>What languages do I program in at all?</h2>
-    <div align="center">
-        <img src="java.jpg" height="200" width="300" alt>
-        <p>Java is my first programming language that I started learning, as well as the main language that I use now. "Why did you choose this language first?" - perhaps you have such a question. Like all beginners in programming, I acted on one principle - it's to learn the coolest and most popular language, but now I can't imagine myself without my beautiful, beloved language - Java. Its syntax seems to me so correct that, sometimes, some other languages seem intimidating to me. In the future I plan to stay with Java, but also to learn all new programming languages and their technologies.</p>
-        <br>
-        <img src="front.jpg" height="200" width="300" alt>
-        <p>After a relatively long study of the Java language, I had a need to try myself in Frontend. After all, this is even cooler than Backend, since you immediately observe the result of your work. It's like writing musical notes on a special piece of paper and playing a musical instrument while enjoying beautiful music. Nevertheless, I still plan to do more Backend, because there is nothing cooler than creating the logic of the application and its behavior in general. <i>And who knows, maybe FullStack will work :)</i></p>
-        <br>
-        <img src="python.webp" height="200" width="200" alt>
-        <p>And sometimes I had to write in the Python programming language. These were mainly integrations with popular APIs of messengers and social networks, such as VKontakte, Telegram, Discord. And also <s>this is the language</s> <b>in fact, I wrote in Python and Java</b>, in which I wrote the computer science exam (EGE) this year.</p>
-    </div>
-    <h2>What am I planning next?</h2>
-    <p>Firstly, it is to get acquainted with the Kotlin programming language, since, unfortunately, Java has faded into the background in Android development, and Kotlin is becoming more and more popular.</p>
-    <img src="kotlin.png" height="150" width="360" alt>
-    <hr>
+<div align="center"><h1>Welcome<img src="i.webp" height="24" width="24" alt></h1></div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jEUGENEdev&theme=radical&hide_border=true&border_radius=15&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<h3>Что здесь вобще творится то?</h3>
+<ul>
+    <li>Частенько встречается Java</li>
+    <li>Иногда можно увидеть JAVA</li>
+    <li>Чуть менее, чем частенько и иногда, можно увидеть ещё HTML (собственно, этот текст, который сверху, и который снизу, на нём вот и написан <b>ну да</b>)</li>
     <ul>
-        <li><b>The second thing I would like to pay attention to is the study of special tools for developers, such as: Kubernetes, Docker, Message Brokers, learn more about Linux.</b></li>
-        <li><b>I am also fascinated by what is related to computer security, data protection, finding weaknesses in the code, etc. - to create products with minimal vulnerability.</b></li>
-        <li><b>Once upon a time I planned to master artificial intelligence and machine learning, but I never got to that. I hope I will be able to defeat neural networks soon!</b></li>
-        <li><b>And I also want to study Computer Science!</b></li>
+        <li>А потом CSS</li>
+        <ul>
+            <li>А еще и JS!!!</li>
+        </ul>
     </ul>
-    <hr>
-    <h4>That's all, we have come to a logical conclusion. The information above will be updated as needed, well, at least I hope so))</h4>
-</div>
+    <li>Случайно ещё можно будет увидеть и Python</li>
+    <li>С каких-то пор здесь ещё появился какой-то C и Bash</li>
+    <ul>
+        <li>Теперь и их тоже можно увидеть</li>
+    </ul>
+    <li>Возможно, можно и ещё что-то увидеть, нужно будет посмотреть... потом допишу</li>
+</ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeugenedev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeugenedev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+<h3>А вообще Java...</h3>
+<h4>Иногда я пытаюсь заниматься как WEBом, так и Android разработкой. Разумеется, всё на Java, не на kotlin`е же писать... Если по Android всё примерно понятно (Java, xml...), то по <i>вебу</i> не так всё ясно (Spring, Spark...). Ну так вот, Spring Core, Spring Boot, Spring Web, Spring Security, Hibernate, Spark, конечно же, тоже приходилось как-то использовать. В общем, чего рассказывать то...</h4>
+
+<hr>
+
 <div align="center">
-    <p><b>Don't forget to <a href="https://zhenya00000.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></p>
-    <br>
-    <p>github.com: <a href="https://github.com/jEUGENEdev">jEUGENEdev</a></p>
+    <h2><b>Don't forget to <a href="https://zhenya00000.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></h2>
     <p>javarush.ru: <a href="https://javarush.ru/users/2533188">(:ArbyziK:)</a></p>
+    <p>github.com: <a href="https://github.com/jEUGENEdev">jEUGENEdev</a></p>
 </div>
