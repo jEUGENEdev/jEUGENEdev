@@ -32,8 +32,7 @@
 
 <hr>
 
-<div align="center">
-    <h2><b>Don't forget to <a href="https://zhenya00000.github.io/">visit</a></b><img src="smile1.png" height="35" width="35" alt></h2>
+<div align="center">
     <p>javarush.ru: <a href="https://javarush.ru/users/2533188">(:ArbyziK:)</a></p>
     <p>github.com: <a href="https://github.com/jEUGENEdev">jEUGENEdev</a></p>
 </div>
