@@ -32,7 +32,7 @@
 
 <hr>
 
-<div align="center">
+<div align="center">
     <p>javarush.ru: <a href="https://javarush.ru/users/2533188">(:ArbyziK:)</a></p>
     <p>github.com: <a href="https://github.com/jEUGENEdev">jEUGENEdev</a></p>
 </div>
